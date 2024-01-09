@@ -93,7 +93,7 @@ const Balance = (props: Props) => {
     });
   };
   return (
-    <Card className="bg-blue-700 text-white">
+    <Card className="bg-blue-700 text-white h-full">
       <CardHeader className="flex flex-row items-center justify-between space-y-0">
         <CardTitle>Balance</CardTitle>
 

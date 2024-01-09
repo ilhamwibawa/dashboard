@@ -63,7 +63,7 @@ const data = [
 
 const TotalCard = (props: Props) => {
   return (
-    <Card className="p-6 grid grid-cols-3 gap-4">
+    <Card className="p-6 grid lg:grid-cols-3 grid-cols-1 gap-4 h-full items-center">
       <div className="">
         <div className="flex">
           <div className=" flex-1">

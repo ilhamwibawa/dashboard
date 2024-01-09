@@ -92,7 +92,7 @@ const Statistics = (props: Props) => {
   );
   return (
     <Card className={className}>
-      <CardHeader className="flex flex-row items-center justify-between">
+      <CardHeader className="lg:flex block flex-row  items-center justify-between">
         <CardTitle>Statistics</CardTitle>
 
         <div className="flex items-center gap-2">
